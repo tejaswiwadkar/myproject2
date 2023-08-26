@@ -1,0 +1,10 @@
+h1{
+    color: darkmagenta;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    background-color: darkgreen;
+    border:5px solid black;
+}
